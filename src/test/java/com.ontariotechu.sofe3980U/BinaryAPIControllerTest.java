@@ -34,7 +34,7 @@ public class BinaryAPIControllerTest {
 
     //ADD
     /**
-     * Test The add functions with two binary numbers of the same length
+     * Test the add functions with two binary numbers of the same length
      */
     @Test
     public void add() throws Exception {
@@ -53,7 +53,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The add functions with two binary numbers, the length of the first argument is less than the second
+     * Test the add functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void add2() throws Exception {
@@ -72,7 +72,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The add functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the add functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void add3() throws Exception {
@@ -91,7 +91,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The add functions with a binary numbers with zero
+     * Test the add functions with a binary numbers with zero
      */
     @Test
     public void add4() throws Exception {
@@ -110,7 +110,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The add functions with two zeros
+     * Test the add functions with two zeros
      */
     @Test
     public void add5() throws Exception {
@@ -131,7 +131,7 @@ public class BinaryAPIControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //AND
     /**
-     * Test The and functions with two binary numbers of the same length
+     * Test the and functions with two binary numbers of the same length
      */
     @Test
     public void and() throws Exception {
@@ -150,7 +150,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The and functions with two binary numbers, the length of the first argument is less than the second
+     * Test the and functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void and2() throws Exception {
@@ -169,7 +169,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The and functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the and functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void and3() throws Exception {
@@ -188,7 +188,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The and functions with a binary numbers with zero
+     * Test the and functions with a binary numbers with zero
      */
     @Test
     public void and4() throws Exception {
@@ -207,7 +207,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The and functions with two zeros
+     * Test the and functions with two zeros
      */
     @Test
     public void and5() throws Exception {
@@ -228,7 +228,7 @@ public class BinaryAPIControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //OR
     /**
-     * Test The or functions with two binary numbers of the same length
+     * Test the or functions with two binary numbers of the same length
      */
     @Test
     public void or() throws Exception {
@@ -247,7 +247,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The or functions with two binary numbers, the length of the first argument is less than the second
+     * Test the or functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void or2() throws Exception {
@@ -266,7 +266,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The or functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the or functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void or3() throws Exception {
@@ -285,7 +285,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The or functions with a binary numbers with zero
+     * Test the or functions with a binary numbers with zero
      */
     @Test
     public void or4() throws Exception {
@@ -304,7 +304,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The or functions with two zeros
+     * Test the or functions with two zeros
      */
     @Test
     public void or5() throws Exception {
@@ -325,7 +325,7 @@ public class BinaryAPIControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //MULTIPLY
     /**
-     * Test The multiplication functions with two binary numbers of the same length
+     * Test the multiplication functions with two binary numbers of the same length
      */
     @Test
     public void multiply() throws Exception {
@@ -344,7 +344,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The multiplication functions with two binary numbers, the length of the first argument is less than the second
+     * Test the multiplication functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void multiply2() throws Exception {
@@ -363,7 +363,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The multiplication functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the multiplication functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void multiply3() throws Exception {
@@ -382,7 +382,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The multiplication functions with a binary numbers with zero
+     * Test the multiplication functions with a binary numbers with zero
      */
     @Test
     public void multiply4() throws Exception {
@@ -401,7 +401,7 @@ public class BinaryAPIControllerTest {
     }
 
     /**
-     * Test The multiplication functions with two zeros
+     * Test the multiplication functions with two zeros
      */
     @Test
     public void multiply5() throws Exception {
