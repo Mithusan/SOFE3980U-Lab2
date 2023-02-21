@@ -52,7 +52,7 @@ public class BinaryControllerTest {
 
     //ADD
     /**
-     * Test The add functions with two binary numbers of the same length
+     * Test the add functions with two binary numbers of the same length
      */
     @Test
 	    public void postParameterAdd() throws Exception {
@@ -64,7 +64,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The add functions with two binary numbers, the length of the first argument is less than the second
+     * Test the add functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void postParameterAdd2() throws Exception {
@@ -76,7 +76,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The add functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the add functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void postParameterAdd3() throws Exception {
@@ -88,7 +88,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The add functions with a binary numbers with zero
+     * Test the add functions with a binary numbers with zero
      */
     @Test
     public void postParameterAdd4() throws Exception {
@@ -100,7 +100,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The add functions with two zeros
+     * Test the add functions with two zeros
      */
     @Test
     public void postParameterAdd5() throws Exception {
@@ -114,7 +114,7 @@ public class BinaryControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //AND
     /**
-     * Test The and functions with two binary numbers of the same length
+     * Test the and functions with two binary numbers of the same length
      */
     @Test
     public void postParameterAnd() throws Exception {
@@ -126,7 +126,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The and functions with two binary numbers, the length of the first argument is less than the second
+     * Test the and functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void postParameterAnd2() throws Exception {
@@ -138,7 +138,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The and functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the and functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void postParameterAnd3() throws Exception {
@@ -150,7 +150,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The and functions with a binary numbers with zero
+     * Test the and functions with a binary numbers with zero
      */
     @Test
     public void postParameterAnd4() throws Exception {
@@ -162,7 +162,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The and functions with two zeros
+     * Test the and functions with two zeros
      */
     @Test
     public void postParameterAnd5() throws Exception {
@@ -176,7 +176,7 @@ public class BinaryControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //OR
     /**
-     * Test The OR functions with two binary numbers of the same length
+     * Test the OR functions with two binary numbers of the same length
      */
     @Test
     public void postParameterOr() throws Exception {
@@ -188,7 +188,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The OR functions with two binary numbers, the length of the first argument is less than the second
+     * Test the OR functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void postParameterOr2() throws Exception {
@@ -200,7 +200,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The OR functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the OR functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void postParameterOr3() throws Exception {
@@ -212,7 +212,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The OR functions with a binary numbers with zero
+     * Test the OR functions with a binary numbers with zero
      */
     @Test
     public void postParameterOr4() throws Exception {
@@ -224,7 +224,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The OR functions with two zeros
+     * Test the OR functions with two zeros
      */
     @Test
     public void postParameterOr5() throws Exception {
@@ -238,7 +238,7 @@ public class BinaryControllerTest {
     //------------------------------------------------------------------------------------------------------------------
     //MULTIPLY
     /**
-     * Test The Multiplication functions with two binary numbers of the same length
+     * Test the Multiplication functions with two binary numbers of the same length
      */
     @Test
     public void postParameterMultiply() throws Exception {
@@ -250,7 +250,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The Multiplication functions with two binary numbers, the length of the first argument is less than the second
+     * Test the Multiplication functions with two binary numbers, the length of the first argument is less than the second
      */
     @Test
     public void postParameterMultiply2() throws Exception {
@@ -262,7 +262,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The Multiplication functions with two binary numbers, the length of the first argument is greater than the second
+     * Test the Multiplication functions with two binary numbers, the length of the first argument is greater than the second
      */
     @Test
     public void postParameterMultiply3() throws Exception {
@@ -274,7 +274,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The Multiplication functions with a binary numbers with zero
+     * Test the Multiplication functions with a binary numbers with zero
      */
     @Test
     public void postParameterMultiply4() throws Exception {
@@ -286,7 +286,7 @@ public class BinaryControllerTest {
     }
 
     /**
-     * Test The Multiplication functions with two zeros
+     * Test the Multiplication functions with two zeros
      */
     @Test
     public void postParameterMultiply5() throws Exception {
